@@ -37,4 +37,4 @@ function validateSelect() {
 		if( select == null || select == 0 ) {
 		  return false;
 		}
-}
+	}
